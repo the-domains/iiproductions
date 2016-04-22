@@ -1,7 +1,7 @@
 name: iiProductions
 favicon: null
-layout_spectrum: 0.5297786972951144
-typography_spectrum: 0.8712890925817192
+layout_spectrum: 0.23295
+typography_spectrum: 0.56241
 title: iiProductions
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2674470110796392
-  lightness: 0.1972594573162496
-  saturation: 0.4976831544190645
-  rhythmicContrast: 0.23664814652875066
+  brandStrength: 0.125
+  lightness: 0.9375
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
