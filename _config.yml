@@ -1,4 +1,4 @@
-name: iiProductions
+name: Untitled
 favicon: null
 layout_spectrum: 0.23295
 typography_spectrum: 0.56241
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#fbd350'
+    - '#fdc828'
+    - '#f1c001'
+    - '#fbc472'
+    - '#faba24'
   brandStrength: 0.125
   lightness: 0.9375
   saturation: 0.0625
